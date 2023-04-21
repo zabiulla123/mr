@@ -3,5 +3,5 @@ class HelloWorld {
         System.out.println("Hello, World!"); 
     }
 }
-hello
+hello java
 
